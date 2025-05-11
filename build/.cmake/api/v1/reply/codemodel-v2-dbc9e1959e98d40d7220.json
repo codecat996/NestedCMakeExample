@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "calc",
+					"jsonFile" : "directory-calc-Debug-9da25d13aa0fdf35a23c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "calc",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "sort",
+					"jsonFile" : "directory-sort-Debug-656d36eaa0104fd92566.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sort",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "test1",
+					"jsonFile" : "directory-test1-Debug-11b89b26843d6de8d4e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "test2",
+					"jsonFile" : "directory-test2-Debug-31fcd7d85e6ab3290baa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "MyProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "calc::@48000d754ed116dfc571",
+					"jsonFile" : "target-calc-Debug-ad0de804ad539621a9cb.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "calc_test1::@470884e9ca6af4ca50cb",
+					"jsonFile" : "target-calc_test1-Debug-10f8827466421684779f.json",
+					"name" : "calc_test1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sort::@f61895df023b4f74cb48",
+					"jsonFile" : "target-sort-Debug-67d378cf2c740f7c878b.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sort_text2::@ae7510edab0538a564fb",
+					"jsonFile" : "target-sort_text2-Debug-f906d423a42964911568.json",
+					"name" : "sort_text2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build",
+		"source" : "D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

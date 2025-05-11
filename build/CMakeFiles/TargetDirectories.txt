@@ -1,0 +1,14 @@
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/CMakeFiles/edit_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/CMakeFiles/rebuild_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/calc/CMakeFiles/calc_test1.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/calc/CMakeFiles/edit_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/calc/CMakeFiles/rebuild_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/sort/CMakeFiles/sort_text2.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/sort/CMakeFiles/edit_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/sort/CMakeFiles/rebuild_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test1/CMakeFiles/calc.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test1/CMakeFiles/edit_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test1/CMakeFiles/rebuild_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test2/CMakeFiles/sort.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test2/CMakeFiles/edit_cache.dir
+D:/UsualTestProject/VSCode/C++Project/NestedCMakeExample/build/test2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc D:\UsualTestProject\VSCode\C++Project\NestedCMakeExample\lib\libcalc_test1.a CMakeFiles/calc_test1.dir/add.cpp.obj CMakeFiles/calc_test1.dir/div.cpp.obj CMakeFiles/calc_test1.dir/mult.cpp.obj CMakeFiles/calc_test1.dir/sub.cpp.obj
+D:\mingw64\bin\ranlib.exe D:\UsualTestProject\VSCode\C++Project\NestedCMakeExample\lib\libcalc_test1.a
