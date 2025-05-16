@@ -1,0 +1,17 @@
+# 忽视 CMake 构建目录
+build/
+
+# 忽视VSCode配置（如果你不打算同步它）
+# .vscode/
+
+# 忽视编译输出
+# bin/
+# *.exe
+# *.o		
+# *.obj
+# *.dll
+
+# 忽视临时文件
+# *.log
+# *.tmp
+

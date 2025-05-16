@@ -1,2 +1,0 @@
-D:\mingw64\bin\ar.exe qc D:\UsualTestProject\VSCode\C++Project\NestedCMakeExample\lib\libsort_text2.a CMakeFiles/sort_text2.dir/insert.cpp.obj CMakeFiles/sort_text2.dir/select.cpp.obj
-D:\mingw64\bin\ranlib.exe D:\UsualTestProject\VSCode\C++Project\NestedCMakeExample\lib\libsort_text2.a
