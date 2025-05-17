@@ -1,5 +1,20 @@
-# 忽视 CMake 构建目录
+# 含义：忽略所有目录中名为 build 的目录（不忽略文件）。
+# 示例：
+#    忽略：build/、src/build/、any/path/build/（所有 build 目录）
+#    不忽略：build（同名文件）、build/file.txt（目录内的文件仍会被跟踪，除非额外配置）
 build/
+
+# 含义：忽略根目录下的 build 文件或目录（严格匹配根目录）。
+# 示例：
+#   忽略：/build（根目录下的 build）
+#   不忽略：src/build、subdir/build（其他目录下的 build）
+/build
+
+# 忽略 doc/notes.txt，但不忽略 doc/server/arch.txt
+# doc/*.txt
+
+# 忽略 doc/ 目录及其所有子目录下的 .pdf 文件
+# doc/**/*.pdf
 
 # 忽视VSCode配置（如果你不打算同步它）
 # .vscode/
